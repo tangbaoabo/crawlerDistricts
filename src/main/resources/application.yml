@@ -1,0 +1,12 @@
+amap:
+  key: "key=35092c64281631ea94f4f220ce6a1289"
+  url_prefix: "https://restapi.amap.com/v3/config/district?"
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: tangyaya1996624*
+    url: jdbc:mysql://localhost:3306/amap_district?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: false
+    database: mysql
