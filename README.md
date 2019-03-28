@@ -36,5 +36,5 @@
 - saver是一个终端操作，可以将处理好的数据持久化
 
 **提醒：**
-  1：本程序所用到的开发者key是本人自己的，在application.yml中配置调用量只有2k，有需要的用户请到https://lbs.amap.com/dev/key/app申请，很简单
+  1：本程序所用到的开发者key是本人自己的，在application.yml中配置调用量只有2k，有需要的用户请到https://lbs.amap.com/dev/key/app 申请很简单
   2：因为数据量比较小，本程序暂时更新了单线程版本的，不适用多线程环境下使用，后续会更新多线程版本
